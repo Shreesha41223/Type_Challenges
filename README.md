@@ -1,15 +1,10 @@
-# typechallenges
+# Type Challenges Practice
 
-To install dependencies:
+This repository contains my personal practice and solutions while working through the **TypeScript Type Challenges**.
 
-```bash
-bun install
-```
+The goal is to improve my understanding of:
+- TypeScript’s type system
+- Advanced types
+- Type-level programming concepts
 
-To run:
-
-```bash
-bun run 
-```
-
-This project was created using `bun init` in bun v1.2.23. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
+This is purely for learning and experimentation.
